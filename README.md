@@ -78,20 +78,5 @@ monitoring-iot-web/
 •	GET /api/alerts
 •	POST /api/alerts/
 •	GET /api/history/alerts-device
-•	GET /api/history/alerts-user
-8. PHÂN CÔNG CÔNG VIỆC 
-Phan Trí Dũng: Backend & MQTT
-•	Thiết lập MQTT broker
-•	Xử lý data ingestion
-•	Kết nối InfluxDB
-•	Grafana
-•	Authentication system
-Lê Văn Được: Backend & API
-•	Alert notifications
-•	ThresholdSettings
-•	REST API development
-Vũ Viết Dũng: Frontend & UI
-•	React components
-•	Data export features
-Vũ Mạnh Dũng: 
+•	GET /api/history/alerts-user 
 
